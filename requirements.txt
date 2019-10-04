@@ -1,3 +1,7 @@
 pytest
 autopep8
 requests
+flake8
+flake8-bugbear
+pep8-naming
+black
